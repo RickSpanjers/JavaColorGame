@@ -1,0 +1,15 @@
+
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ï»Úù,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(û•€É8€®Œğ÷,
+squid:S1319~"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(óÕ±…8€®Œğ÷,
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¼×éÜøÿÿÿÿ8€®Œğ÷,
+Zsquid:S2696‹"6Make the enclosing method "static" or remove this set.(‚ƒ°øÿÿÿÿ8€®Œğ÷,
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Œâş¤şÿÿÿÿ8€®Œğ÷,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(œ†²…8€®Œğ÷,
+\
+squid:S106„"9Replace this use of System.out or System.err by a logger.(âÆÆ¾øÿÿÿÿ8€®Œğ÷,

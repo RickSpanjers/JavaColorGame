@@ -1,0 +1,7 @@
+
+wsquid:S00116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶–Ëıÿÿÿÿ8˜İ·‚õ,
+xsquid:S00116"YRename this field "btn_doregister" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úà¡†8˜İ·‚õ,
+{squid:S00116#"WRename this field "txt_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÂéûÿÿÿÿ8˜İ·‚õ,
+ssquid:S1450"URemove the "logger" field and declare it as a local variable in the relevant methods.(é„Ë‰8—ÛÎ‰õ,
+{squid:S00116!"WRename this field "txt_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÑ‹ùÿÿÿÿ8˜İ·‚õ,
+rsquid:S00116%"SRename this field "txt_mail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄ‘£8˜İ·‚õ,

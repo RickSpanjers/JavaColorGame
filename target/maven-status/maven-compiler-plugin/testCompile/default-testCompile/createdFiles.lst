@@ -1,0 +1,14 @@
+mocks\MockSimonRESTClient.class
+simonAlgorithm\TestSimonAlgorithm.class
+mocks\MockSimonSetupGUI.class
+loggerTests\TestSimonLogger.class
+simongame\TestGameDomain.class
+mocks\MockSimonGameLogic.class
+integrationTests\TestServerMessagingIntegration.class
+rest\TestSimonRESTServer.class
+integrationTests\TestClientMessagingIntegration.class
+simongame\TestUsers.class
+mocks\MockSimonRegistrationGUI.class
+mocks\MockSimonGameGUI.class
+simongame\TestHighscores.class
+simongame\TestSimonGame.class

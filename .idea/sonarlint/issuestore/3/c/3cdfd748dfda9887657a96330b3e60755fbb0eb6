@@ -1,0 +1,9 @@
+
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(œæˆï8³†ğ÷,
+Tsquid:S2696N"6Make the enclosing method "static" or remove this set.(œæˆï8³†ğ÷,
+Ysquid:S2696P"6Make the enclosing method "static" or remove this set.(Ùãîœûÿÿÿÿ8³†ğ÷,
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(¢·óƒùÿÿÿÿ8³†ğ÷,
+esquid:UselessImportCheck"5Remove this unused import 'simongame.SimonGameLogic'.(ØŸøùıÿÿÿÿ8³†ğ÷,
+Tsquid:S2696M"6Make the enclosing method "static" or remove this set.(É®çß8³†ğ÷,
+–squid:S1319V"sThe type of the "sequence" object should be an interface such as "List" rather than the implementation "ArrayList".(ªˆÉıÿÿÿÿ8³†ğ÷,
+“squid:S1319d"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ë»¨Ÿùÿÿÿÿ8³†ğ÷,

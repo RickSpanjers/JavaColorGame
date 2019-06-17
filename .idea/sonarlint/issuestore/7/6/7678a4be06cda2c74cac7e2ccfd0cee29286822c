@@ -1,0 +1,16 @@
+
+esquid:S2095l"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(àù±á8õøâš÷,
+esquid:S2095P"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(àù±á8¨¿¹óõ,
+Xsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¨¿¹óõ,
+msquid:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒàáÁ8¨¿¹óõ,
+gsquid:S1192@"IDefine a constant instead of duplicating this literal "GameMode" 3 times.(…íè¥8«Èğš÷,
+“squid:S1319J"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆÇ¯Åıÿÿÿÿ8¨¿¹óõ,
+nsquid:S1192="KDefine a constant instead of duplicating this literal "Difficulty" 3 times.(åÿ ‹øÿÿÿÿ8õøâš÷,
+Nsquid:S1066"/Merge this if statement with the enclosing one.(«ãÖ8ã§¿Üõ,
+psquid:S1192?"RDefine a constant instead of duplicating this literal "HighscoreAchieved" 3 times.(Îæşë8õøâš÷,
+rsquid:S2095j"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷«šÍıÿÿÿÿ8õøâš÷,
+dsquid:S1192>"FDefine a constant instead of duplicating this literal "Round" 3 times.(Šˆ³8õøâš÷,
+ysquid:S1488—"ZImmediately return this expression instead of assigning it to the temporary variable "gm".(ä§ŸÀ8‹Àîš÷,
+“squid:S1319f"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öäò©ÿÿÿÿÿ8ÃÂâš÷,
+esquid:S2095:"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(àù±á8¨¿¹óõ,
+msquid:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(á¥şÊ8¨¿¹óõ,

@@ -1,0 +1,8 @@
+
+Zsquid:UselessImportCheck"1Remove this unused import 'javafx.util.Duration'.(ç½®§8•ùÀ«÷,
+squid:S1319"sThe type of the "sequence" object should be an interface such as "List" rather than the implementation "ArrayList".(îÏàã8ÅÂ¢÷,
+dsquid:UselessImportCheck"6Remove this unused import 'javafx.animation.Timeline'.(˜‰ë÷øÿÿÿÿ8•ùÀ«÷,
+^squid:UselessImportCheck"6Remove this unused import 'javafx.animation.KeyFrame'.(æ™†v8•ùÀ«÷,
+_squid:UselessImportCheck"6Remove this unused import 'javafx.animation.KeyValue'.(©ı˜8•ùÀ«÷,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”‘½¸8ëİÏê÷,

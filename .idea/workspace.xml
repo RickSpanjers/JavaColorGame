@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f30cb49c-90b0-44a4-a689-cdbdd360428c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../CS/Pentest/ReflectiePentest_RickSpanjers_S33T.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CS/Pentest/ReflectiePentest_RickSpanjers_S33T.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUN3/AnimalShelterRickSpanjersS33T/fun3RickSpanjers" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FUN3/AnimalShelterRickSpanjersS33T/fun3RickSpanjers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/Angular/angular-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PTS3/Angular/angular-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/PTS3Applicatie/proftaak_sem_3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PTS3/PTS3Applicatie/proftaak_sem_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/PTS3Applicatie/temp/temp/spring-boot-mysql-example" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PTS3/PTS3Applicatie/temp/temp/spring-boot-mysql-example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/PTS3Documentatie/ToTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/PTS3Documentatie/proftaak_sem_3_documentatie" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PTS3/PTS3Documentatie/proftaak_sem_3_documentatie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/PTS3Documentatie/temp/SoftwareArchitectuurDocument.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PTS3/PTS3Documentatie/temp/SoftwareArchitectuurDocument.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PTS3/Semestercoach/Portfolio_RickSpanjers_SC.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PTS3/Semestercoach/Portfolio_RickSpanjers_SC.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleBigIdeaThomas/FontysMultiPurposeLibrary" beforeDir="false" afterPath="$PROJECT_DIR$/../ExampleBigIdeaThomas/FontysMultiPurposeLibrary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleBigIdeaThomas/RestAuthenticationExample" beforeDir="false" afterPath="$PROJECT_DIR$/../ExampleBigIdeaThomas/RestAuthenticationExample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a264e6d173a356d657ef123096f3b598a5b223d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a264e6d173a356d657ef123096f3b598a5b223d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/4552591c54eede99fd6796a7383662a1a4d6e257" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/4552591c54eede99fd6796a7383662a1a4d6e257" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/625837949b4d5e4221a6292a9c92d25aba21565f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/625837949b4d5e4221a6292a9c92d25aba21565f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77f692015acade43835c3015ff6bfd7c7cba7b8c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77f692015acade43835c3015ff6bfd7c7cba7b8c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f7ef6e838d443b7bb3d7d08d6eb5cfa122c8922" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f7ef6e838d443b7bb3d7d08d6eb5cfa122c8922" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a88ab733d4bed00779a4555f9d9445ec2ba25ff1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a88ab733d4bed00779a4555f9d9445ec2ba25ff1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfaa5455212bff9aec153e9e978e7131add55fb5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfaa5455212bff9aec153e9e978e7131add55fb5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3e8c2d46a0db2e4ea609532650b7644b15d5a57" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3e8c2d46a0db2e4ea609532650b7644b15d5a57" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c637694ce33ac081bd9032f028a69f744403f963" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c637694ce33ac081bd9032f028a69f744403f963" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8f1420986fc1e3bb4557146570e9c60b5dad915" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8f1420986fc1e3bb4557146570e9c60b5dad915" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44d1391fe1648f72e089a22de6b349bfb4f7376" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44d1391fe1648f72e089a22de6b349bfb4f7376" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa41bd6be2a15575421940fe5451664a63bd9aa7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa41bd6be2a15575421940fe5451664a63bd9aa7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rest/SimonREST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rest/SimonREST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site" beforeDir="false" afterPath="$PROJECT_DIR$/target/site" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebSockets/WebSocketsExample/embedded-jetty-websocket-examples" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebSockets/WebSocketsExample/embedded-jetty-websocket-examples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zeeslag/ZeeslagApplicatie/zeeslagRickSpanjers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Zeeslag/ZeeslagApplicatie/zeeslagRickSpanjers" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BigIdeaRickSpanjersS3$TestUsers_TestLoginTrue.ic" NAME="TestUsers.TestLoginTrue Coverage Results" MODIFIED="1541505549764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BigIdeaRickSpanjersS3$SimonGameRun.ic" NAME="SimonGameRun Coverage Results" MODIFIED="1543838149573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>simongui.interfaces.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigIdeaRickSpanjersS3$TestSimonGame_registerPlayer.ic" NAME="TestSimonGame.registerPlayer Coverage Results" MODIFIED="1542185297049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BigIdeaRickSpanjersS3$SimonRESTServer.ic" NAME="SimonRESTServer Coverage Results" MODIFIED="1544346763405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BigIdeaRickSpanjersS3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ServerGeneralMessageHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerGeneralMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISimonGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/simongame/ISimonGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameServerSocket.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/GameServerSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2125">
+              <caret line="142" column="5" selection-start-line="142" selection-start-column="5" selection-end-line="142" selection-end-column="5" />
+              <folding>
+                <element signature="e#3793#3794#0" expanded="true" />
+                <element signature="e#3824#3825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRESTClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rest/IRESTClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimonREST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rest/SimonREST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimonRESTServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rest/SimonRESTServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IServerMessageHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="83" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerMessageProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="31" column="81" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimonGameLogic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/simongame/SimonGameLogic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IServerMessageProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lose</find>
+      <find>dr</find>
+      <find>addround</find>
+      <find>setgame</find>
+      <find>n</find>
+      <find>setGamegui</find>
+      <find>setop</find>
+      <find>setgamegui</find>
+      <find>gameactive</find>
+      <find>gameac</find>
+      <find>roundfin</find>
+      <find>succes</find>
+      <find>repeat</find>
+      <find>setsimong</find>
+      <find>private</find>
+      <find>notify</find>
+      <find>stack</find>
+      <find>systemout</find>
+      <find>roundresult</find>
+      <find>processc</find>
+      <find>color</find>
+      <find>colorGreen</find>
+      <find>getallhighscores</find>
+      <find>txt</find>
+      <find>playernotif</find>
+      <find>enterseque</find>
+      <find>new</find>
+      <find>set</find>
+      <find>gettu</find>
+      <find>sonar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Round</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/simongui/controller/HighScoreGUIController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simongui/controller/StartScreenGUIController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simongui/controller/RegisterGUIController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gameScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/simongui/interfaces/ISimonGameGUI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MockSimonGameGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/IRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simongame/SimonGameLogic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockNotifyGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientGeneralMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockSimonRestServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simonalgorithm/ShowColorThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simongui/controller/GameGUIController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/notify/NotifyGUI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockSimonGameGUI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockSimonRegistrationGUI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockSimonRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockSimonSetupGUI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/integrationTests/ClientMessagingIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/integrationTests/ServerMessagingIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simongame/TestSimonGame.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/simongame/TestUsers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simongame/TestHighscores.java" />
+        <option value="$PROJECT_DIR$/src/test/java/integrationTests/TestClientMessagingIntegration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/rest/simonRESTServerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Mocks/MockSimonGameLogic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simonAlgorithm/TestSimonAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/domain/TestSimonPlayer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/loggerTests/TestSimonLogger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/rest/TestSimonRESTServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simongame/TestGameDomain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/GameClientSocket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simonalgorithm/SequenceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/AuthenticationDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/server/GameServerSocket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/ISimonAuthentication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/restDTO/RegistrationDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/restDTO/SetHighscoreDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/ISimonHighscoreServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/SimonREST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/SimonRESTServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/BaseRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/SimonRESTClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dto/restDTO/RestResultDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageProcessor.java" />
+        <option value="C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/HelloServlet/WEB-INF/src/mypkg/HelloServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="restDTO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simonalgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simongame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simongui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simongui" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simongui" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="messaging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="notify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+              <item name="messaging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websockets" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="messaging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="integrationTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="loggerTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simonAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigIdeaRickSpanjersS3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S3BigIdeaApplicatie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simongame" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="plugins&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)&#10;MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="websockets.server.messageHandlers" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="simongame" />
+      <recent name="domain" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\Fontys\S3\SE3\BigIdea\S3BigIdeaApplicatie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SimonRESTServer">
+    <configuration name="GameServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websockets.server.GameServer" />
+      <module name="S3BigIdeaApplicatie" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websockets.server.messaging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SimonGameRun" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simongui.SimonGameRun" />
+      <module name="S3BigIdeaApplicatie" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simongui.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SimonRESTServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rest.SimonRESTServer" />
+      <module name="S3BigIdeaApplicatie" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in S3BigIdeaApplicatie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S3BigIdeaApplicatie" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestGameDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S3BigIdeaApplicatie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simongame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="simongame" />
+      <option name="MAIN_CLASS_NAME" value="simongame.TestGameDomain" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestGameDomain.boardDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S3BigIdeaApplicatie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simongame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="simongame" />
+      <option name="MAIN_CLASS_NAME" value="simongame.TestGameDomain" />
+      <option name="METHOD_NAME" value="boardDataTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestGameDomain.playerDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S3BigIdeaApplicatie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simongame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="simongame" />
+      <option name="MAIN_CLASS_NAME" value="simongame.TestGameDomain" />
+      <option name="METHOD_NAME" value="playerDataTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimonGameRun" />
+      <item itemvalue="Application.GameServer" />
+      <item itemvalue="JUnit.TestGameDomain.playerDataTest" />
+      <item itemvalue="JUnit.TestGameDomain.boardDataTest" />
+      <item itemvalue="JUnit.TestGameDomain" />
+      <item itemvalue="JUnit.All in S3BigIdeaApplicatie" />
+      <item itemvalue="Application.SimonRESTServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimonRESTServer" />
+        <item itemvalue="JUnit.All in S3BigIdeaApplicatie" />
+        <item itemvalue="JUnit.TestGameDomain" />
+        <item itemvalue="JUnit.TestGameDomain.boardDataTest" />
+        <item itemvalue="JUnit.TestGameDomain.playerDataTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30cb49c-90b0-44a4-a689-cdbdd360428c" name="Default" comment="" />
+      <created>1541081509196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541081509196</updated>
+      <workItem from="1541081512695" duration="1169000" />
+      <workItem from="1541082717713" duration="26000" />
+      <workItem from="1541403384434" duration="359000" />
+      <workItem from="1541409123784" duration="12289000" />
+      <workItem from="1541504427260" duration="4625000" />
+      <workItem from="1541576575727" duration="25549000" />
+      <workItem from="1541662236489" duration="211000" />
+      <workItem from="1541697354154" duration="6204000" />
+      <workItem from="1541748927953" duration="683000" />
+      <workItem from="1541837019815" duration="7305000" />
+      <workItem from="1541926038232" duration="307000" />
+      <workItem from="1541938330264" duration="6850000" />
+      <workItem from="1542009266284" duration="18101000" />
+      <workItem from="1542055780370" duration="4546000" />
+      <workItem from="1542096219543" duration="7190000" />
+      <workItem from="1542109350029" duration="14500000" />
+      <workItem from="1542180436294" duration="821000" />
+      <workItem from="1542181293393" duration="11682000" />
+      <workItem from="1542223185379" duration="593000" />
+      <workItem from="1542267594364" duration="429000" />
+      <workItem from="1542361382577" duration="8255000" />
+      <workItem from="1542529945415" duration="2743000" />
+      <workItem from="1542535431314" duration="120000" />
+      <workItem from="1542544907295" duration="1720000" />
+      <workItem from="1542554619205" duration="595000" />
+      <workItem from="1542612899635" duration="22452000" />
+      <workItem from="1542700132315" duration="122000" />
+      <workItem from="1542786127903" duration="28764000" />
+      <workItem from="1542879776821" duration="97000" />
+      <workItem from="1542906129997" duration="8445000" />
+      <workItem from="1542959724885" duration="919000" />
+      <workItem from="1542993729119" duration="6022000" />
+      <workItem from="1543046412991" duration="6643000" />
+      <workItem from="1543134712887" duration="5769000" />
+      <workItem from="1543147054641" duration="8172000" />
+      <workItem from="1543165283191" duration="2382000" />
+      <workItem from="1543217632610" duration="23967000" />
+      <workItem from="1543253231957" duration="4762000" />
+      <workItem from="1543258226468" duration="12000" />
+      <workItem from="1543304317487" duration="715000" />
+      <workItem from="1543390072132" duration="23519000" />
+      <workItem from="1543429343008" duration="2497000" />
+      <workItem from="1543476728387" duration="856000" />
+      <workItem from="1543487100912" duration="86000" />
+      <workItem from="1543653990624" duration="3372000" />
+      <workItem from="1543680025123" duration="5000" />
+      <workItem from="1543738075640" duration="3545000" />
+      <workItem from="1543822232734" duration="18166000" />
+      <workItem from="1543848686842" duration="4334000" />
+      <workItem from="1543911376642" duration="543000" />
+      <workItem from="1543931183554" duration="1948000" />
+      <workItem from="1543943870224" duration="8654000" />
+      <workItem from="1543994967695" duration="16903000" />
+      <workItem from="1544192254354" duration="593000" />
+      <workItem from="1544256668953" duration="5812000" />
+      <workItem from="1544343735220" duration="5221000" />
+      <workItem from="1544358900063" duration="23000" />
+      <workItem from="1544429256716" duration="963000" />
+      <workItem from="1544440051514" duration="4781000" />
+      <workItem from="1544513540789" duration="4034000" />
+      <workItem from="1544535184089" duration="706000" />
+      <workItem from="1544708340727" duration="670000" />
+      <workItem from="1544773341713" duration="51000" />
+      <workItem from="1545050781586" duration="867000" />
+      <workItem from="1545244449167" duration="445000" />
+      <workItem from="1545245044947" duration="799000" />
+      <workItem from="1545482240428" duration="3061000" />
+      <workItem from="1545501845639" duration="423000" />
+      <workItem from="1545554815936" duration="645000" />
+      <workItem from="1545640648013" duration="1137000" />
+      <workItem from="1545899026170" duration="49000" />
+      <workItem from="1546454342725" duration="1862000" />
+      <workItem from="1546502294568" duration="2488000" />
+      <workItem from="1546508916931" duration="16000" />
+      <workItem from="1547128898600" duration="179000" />
+      <workItem from="1547202217185" duration="337000" />
+      <workItem from="1547222447710" duration="595000" />
+      <workItem from="1547284979057" duration="594000" />
+      <workItem from="1547410286590" duration="594000" />
+      <workItem from="1547414030797" duration="593000" />
+      <workItem from="1547457505885" duration="115000" />
+      <workItem from="1547631085932" duration="3442000" />
+      <workItem from="1547848324969" duration="37000" />
+      <workItem from="1547973755942" duration="5539000" />
+      <workItem from="1548055940537" duration="1522000" />
+      <workItem from="1548070584635" duration="184000" />
+      <workItem from="1548327797189" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGameDomain_currentGameDataTest - 2018.12.05 at 10h 56m 45s.xml">
+      <configuration name="TestGameDomain.currentGameDataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSimonRESTServer - 2018.12.05 at 10h 58m 36s.xml">
+      <configuration name="TestSimonRESTServer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSimonRESTServer_loginTest - 2018.12.05 at 11h 00m 15s.xml">
+      <configuration name="TestSimonRESTServer.loginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameDomain_playerDataTest - 2018.12.05 at 11h 04m 20s.xml">
+      <configuration name="TestGameDomain.playerDataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameDomain_boardDataTest - 2018.12.05 at 11h 05m 23s.xml">
+      <configuration name="TestGameDomain.boardDataTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameDomain - 2018.12.05 at 11h 06m 34s.xml">
+      <configuration name="TestGameDomain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_S3BigIdeaApplicatie - 2018.12.05 at 11h 06m 54s.xml">
+      <configuration name="All in S3BigIdeaApplicatie" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_S3BigIdeaApplicatie - 2018.12.05 at 11h 12m 27s.xml">
+      <configuration name="All in S3BigIdeaApplicatie" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_S3BigIdeaApplicatie - 2018.12.05 at 13h 11m 56s.xml">
+      <configuration name="All in S3BigIdeaApplicatie" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_S3BigIdeaApplicatie - 2019.01.10 at 15h 02m 44s.xml">
+      <configuration name="All in S3BigIdeaApplicatie" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="393997000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32905984" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5013423" side_tool="true" weight="0.28917378" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4986577" weight="0.31766382" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24643874" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8522073" visible="true" weight="0.29597315" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.3295302" />
+      <window_info anchor="bottom" id="SonarLint" order="0" weight="0.27920228" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+      <window_info id="Structure" order="1" sideWeight="0.14779271" side_tool="true" weight="0.30067113" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" sideWeight="0.19762845" side_tool="true" weight="0.35973155" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49932885" weight="0.4002849" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32763532" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32905984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/simongame/TestSimonGame.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/simongame/SimonGameGUILogic.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rest/SimonREST.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="333" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="myResults" />
+        <watch expression="highscores.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/LoginDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7.jar!/org/glassfish/jersey/server/model/internal/ResourceMethodInvocationHandlerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/restDTO/SetHighscoreDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repository/HighscoreRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/GameServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="33" column="1" lean-forward="true" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/GameClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/SimonGenericMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logging/ILogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logging/LogLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logging/LogMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repository/IUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" selection-start-line="8" selection-start-column="4" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="47" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/ConnectionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/restDTO/AuthenticationDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/restDTO/RegistrationDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="5" selection-start-line="4" selection-start-column="3" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/restDTO/RestResultDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="78" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/context/UserMSSQLContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4743">
+          <caret line="291" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="291" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S3BigIdeaApplicatie.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/BaseRESTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ISimonHighscoreServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ISimonAuthentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/IServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/IClientSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/EnumOperationMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simongame/SimonGameGUILogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simongui/SimonGameRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simongui/controller/GameGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/SimonRESTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/GameClientSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="129" column="39" lean-forward="true" selection-start-line="129" selection-start-column="39" selection-end-line="129" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/notify/IClientNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/notify/NotifyGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="115" column="32" lean-forward="true" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientMessageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/client/messaging/ClientGeneralMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IClientMessageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messaging/IServerMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="83" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simongame/SimonGameLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simongame/ISimonGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="81" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/HelloServlet/WEB-INF/src/mypkg/HelloServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/GameServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="142" column="5" selection-start-line="142" selection-start-column="5" selection-end-line="142" selection-end-column="5" />
+          <folding>
+            <element signature="e#3793#3794#0" expanded="true" />
+            <element signature="e#3824#3825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/IRESTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/SimonRESTServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/SimonREST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/server/messaging/ServerGeneralMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>S3BigIdeaApplicatie</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+
+tsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(äü»£8úÛŒÈö,
+psquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(èû­œ8­ü­Úò,
+squid:S1319‚"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ù‡Â8åÛŒİò,
+Ksquid:S1066-"/Merge this if statement with the enclosing one.( ÿ„åşÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹“¬¯şÿÿÿÿ
+Rsquid:S1066/"/Merge this if statement with the enclosing one.(ÜåÕ”ıÿÿÿÿ8­ü­Úò,
+Ksquid:S1066."/Merge this if statement with the enclosing one.(ÉÂİÆÿÿÿÿÿ
+Fsquid:S1066,"/Merge this if statement with the enclosing one.(îˆ

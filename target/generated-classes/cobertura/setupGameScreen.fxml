@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="465.0" prefWidth="540.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="simongui.controller.SetupScreenGUIController">
+   <children>
+      <ComboBox fx:id="comboDifficulty" layoutX="99.0" layoutY="213.0" prefHeight="40.0" prefWidth="170.0" promptText="Difficulty" />
+      <RadioButton fx:id="radioSingleplayer" layoutX="99.0" layoutY="285.0" mnemonicParsing="false" text="Singleplayer">
+         <font>
+            <Font name="Roboto Bold" size="15.0" />
+         </font>
+      </RadioButton>
+      <RadioButton fx:id="radioMultiplayer" layoutX="224.0" layoutY="284.0" mnemonicParsing="false" text="Multiplayer">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </RadioButton>
+      <Button fx:id="btnLookForGame" layoutX="99.0" layoutY="330.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="350.0" text="LOOK FOR GAME">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Button>
+      <Label layoutX="143.0" layoutY="38.0" text="SIMON GAME">
+         <font>
+            <Font name="Britannic Bold" size="45.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnBack" layoutX="99.0" layoutY="385.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="350.0" text="BACK">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Button>
+      <TextField fx:id="txtUsernameEmail" layoutX="99.0" layoutY="102.0" prefHeight="40.0" prefWidth="350.0" promptText="Username or mailaddress" />
+      <PasswordField fx:id="txtPassword" layoutX="99.0" layoutY="158.0" prefHeight="40.0" prefWidth="350.0" promptText="Password" />
+      <ComboBox fx:id="comboGamemode" layoutX="279.0" layoutY="213.0" prefHeight="40.0" prefWidth="170.0" promptText="Gamemode" />
+   </children>
+</Pane>

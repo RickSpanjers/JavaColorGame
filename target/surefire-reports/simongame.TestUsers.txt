@@ -1,0 +1,114 @@
+-------------------------------------------------------------------------------
+Test set: simongame.TestUsers
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in simongame.TestUsers
+TestRegisterTrue()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 89
+Exception Details:
+  Location:
+    context/UserTestContext.isValid(Ljava/lang/String;)Z @50: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1214 1100 1bb8 001a 124f
+    0x0000010: 3a04 1214 1100 20b8 001a 1904 b800 553a
+    0x0000020: 0512 1411 0021 b800 1a2b 1100 213d 1100
+    0x0000030: 003e c700 271c 1100 21a0 0016 1d11 0000
+    0x0000040: a000 0f12 141c 1d04 b800 5911 ffff 3e12
+    0x0000050: 1411 0022 b800 1a03 ac1d 9b00 0f12 141c
+    0x0000060: 1d03 b800 5911 ffff 3e12 1411 0024 b800
+    0x0000070: 1a19 052b b600 5fb6 0065 ac            
+  Stackmap Table:
+    append_frame(@113,Object[#91],Object[#81])
+
+	at simongame.TestUsers.<init>(TestUsers.java:15)
+
+TestCaseConstructor()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 89
+Exception Details:
+  Location:
+    context/UserTestContext.isValid(Ljava/lang/String;)Z @50: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1214 1100 1bb8 001a 124f
+    0x0000010: 3a04 1214 1100 20b8 001a 1904 b800 553a
+    0x0000020: 0512 1411 0021 b800 1a2b 1100 213d 1100
+    0x0000030: 003e c700 271c 1100 21a0 0016 1d11 0000
+    0x0000040: a000 0f12 141c 1d04 b800 5911 ffff 3e12
+    0x0000050: 1411 0022 b800 1a03 ac1d 9b00 0f12 141c
+    0x0000060: 1d03 b800 5911 ffff 3e12 1411 0024 b800
+    0x0000070: 1a19 052b b600 5fb6 0065 ac            
+  Stackmap Table:
+    append_frame(@113,Object[#91],Object[#81])
+
+	at simongame.TestUsers.<init>(TestUsers.java:15)
+
+TestLoginTrue()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 89
+Exception Details:
+  Location:
+    context/UserTestContext.isValid(Ljava/lang/String;)Z @50: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1214 1100 1bb8 001a 124f
+    0x0000010: 3a04 1214 1100 20b8 001a 1904 b800 553a
+    0x0000020: 0512 1411 0021 b800 1a2b 1100 213d 1100
+    0x0000030: 003e c700 271c 1100 21a0 0016 1d11 0000
+    0x0000040: a000 0f12 141c 1d04 b800 5911 ffff 3e12
+    0x0000050: 1411 0022 b800 1a03 ac1d 9b00 0f12 141c
+    0x0000060: 1d03 b800 5911 ffff 3e12 1411 0024 b800
+    0x0000070: 1a19 052b b600 5fb6 0065 ac            
+  Stackmap Table:
+    append_frame(@113,Object[#91],Object[#81])
+
+	at simongame.TestUsers.<init>(TestUsers.java:15)
+
+TestRegisterFalse()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 89
+Exception Details:
+  Location:
+    context/UserTestContext.isValid(Ljava/lang/String;)Z @50: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1214 1100 1bb8 001a 124f
+    0x0000010: 3a04 1214 1100 20b8 001a 1904 b800 553a
+    0x0000020: 0512 1411 0021 b800 1a2b 1100 213d 1100
+    0x0000030: 003e c700 271c 1100 21a0 0016 1d11 0000
+    0x0000040: a000 0f12 141c 1d04 b800 5911 ffff 3e12
+    0x0000050: 1411 0022 b800 1a03 ac1d 9b00 0f12 141c
+    0x0000060: 1d03 b800 5911 ffff 3e12 1411 0024 b800
+    0x0000070: 1a19 052b b600 5fb6 0065 ac            
+  Stackmap Table:
+    append_frame(@113,Object[#91],Object[#81])
+
+	at simongame.TestUsers.<init>(TestUsers.java:15)
+
+TestLoginFalse()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 89
+Exception Details:
+  Location:
+    context/UserTestContext.isValid(Ljava/lang/String;)Z @50: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1214 1100 1bb8 001a 124f
+    0x0000010: 3a04 1214 1100 20b8 001a 1904 b800 553a
+    0x0000020: 0512 1411 0021 b800 1a2b 1100 213d 1100
+    0x0000030: 003e c700 271c 1100 21a0 0016 1d11 0000
+    0x0000040: a000 0f12 141c 1d04 b800 5911 ffff 3e12
+    0x0000050: 1411 0022 b800 1a03 ac1d 9b00 0f12 141c
+    0x0000060: 1d03 b800 5911 ffff 3e12 1411 0024 b800
+    0x0000070: 1a19 052b b600 5fb6 0065 ac            
+  Stackmap Table:
+    append_frame(@113,Object[#91],Object[#81])
+
+	at simongame.TestUsers.<init>(TestUsers.java:15)
+

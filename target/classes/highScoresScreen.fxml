@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="simongui.controller.HighScoreGUIController">
+   <children>
+      <Label layoutX="38.0" layoutY="35.0" prefHeight="36.0" prefWidth="630.0" text="SIMON GAME HIGHSCORES">
+         <font>
+            <Font name="Britannic Bold" size="35.0" />
+         </font>
+      </Label>
+      <TableView fx:id="tblHighscores" layoutX="38.0" layoutY="92.0" prefHeight="428.0" prefWidth="458.0">
+        <columns>
+          <TableColumn prefWidth="75.0" text="C1" visible="false" />
+          <TableColumn prefWidth="75.0" text="C2" visible="false" />
+        </columns>
+      </TableView>
+      <Button fx:id="btnBackToStart" layoutX="518.0" layoutY="485.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="BACK TO START">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnRecordHolderTime" layoutX="518.0" layoutY="338.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="RECORD TIME">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnHighscoresClassic" layoutX="518.0" layoutY="92.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="CLASSIC MODE">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnHighscoresLength" layoutX="518.0" layoutY="142.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="LENGTH BATTLE">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnHighscoresTime" layoutX="518.0" layoutY="191.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="TIME BATTLE">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnRecordHolderLength" layoutX="518.0" layoutY="289.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="RECORD LENGTH">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnRecordHolderClassic" layoutX="518.0" layoutY="240.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="150.0" text="RECORD CLASSIC">
+         <font>
+            <Font name="Roboto Bold" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

@@ -1,0 +1,82 @@
+-------------------------------------------------------------------------------
+Test set: simonAlgorithm.TestSimonAlgorithm
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE! - in simonAlgorithm.TestSimonAlgorithm
+generateSequenceLengthBattleTest()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    domain/Game.getPlayersThatHaveNotLost()Ljava/util/ArrayList; @39: aload
+  Reason:
+    Type integer (current frame, locals[1]) is not assignable to 'java/util/ArrayList' (stack map, locals[1])
+  Current Frame:
+    bci: @39
+    flags: { }
+    locals: { 'domain/Game', integer, integer, 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @39
+    flags: { }
+    locals: { 'domain/Game', 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033c 11ff ff3d 1217 1100 24b8 001d bb00
+    0x0000010: 2159 b700 224e 1217 1100 25b8 001d 2ab4
+    0x0000020: 0024 b600 423a 0419 04b9 0048 0100 1100
+    0x0000030: 253c 1100 003d 9900 7a12 171b 1c04 b800
+    0x0000040: 4c11 ffff 3d19 04b9 0050 0100 c000 3b3a
+    0x0000050: 0512 1711 0026 b800 1d19 05b6 005d b600
+    0x0000060: 6211 0026 3c11 0000 3d9a 002c 1b11 0026
+    0x0000070: a000 161c 1100 00a0 000f 1217 1b1c 04b8
+    0x0000080: 004c 11ff ff3d 1217 1100 27b8 001d 2d19
+    0x0000090: 05b6 0066 571c 9b00 0f12 171b 1c03 b800
+    0x00000a0: 4c11 ffff 3d12 1711 0029 b800 1da7 ff7a
+    0x00000b0: 1c9b 000f 1217 1b1c 03b8 004c 11ff ff3d
+    0x00000c0: 1217 1100 2ab8 001d 2db0               
+  Stackmap Table:
+    append_frame(@39,Object[#33],Object[#68])
+    same_frame_extended(@173)
+    chop_frame(@200,1)
+
+	at simonAlgorithm.TestSimonAlgorithm.generateSequenceLengthBattleTest(TestSimonAlgorithm.java:28)
+
+generateSequenceClassicTest()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    domain/Game.getPlayersThatHaveNotLost()Ljava/util/ArrayList; @39: aload
+  Reason:
+    Type integer (current frame, locals[1]) is not assignable to 'java/util/ArrayList' (stack map, locals[1])
+  Current Frame:
+    bci: @39
+    flags: { }
+    locals: { 'domain/Game', integer, integer, 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @39
+    flags: { }
+    locals: { 'domain/Game', 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033c 11ff ff3d 1217 1100 24b8 001d bb00
+    0x0000010: 2159 b700 224e 1217 1100 25b8 001d 2ab4
+    0x0000020: 0024 b600 423a 0419 04b9 0048 0100 1100
+    0x0000030: 253c 1100 003d 9900 7a12 171b 1c04 b800
+    0x0000040: 4c11 ffff 3d19 04b9 0050 0100 c000 3b3a
+    0x0000050: 0512 1711 0026 b800 1d19 05b6 005d b600
+    0x0000060: 6211 0026 3c11 0000 3d9a 002c 1b11 0026
+    0x0000070: a000 161c 1100 00a0 000f 1217 1b1c 04b8
+    0x0000080: 004c 11ff ff3d 1217 1100 27b8 001d 2d19
+    0x0000090: 05b6 0066 571c 9b00 0f12 171b 1c03 b800
+    0x00000a0: 4c11 ffff 3d12 1711 0029 b800 1da7 ff7a
+    0x00000b0: 1c9b 000f 1217 1b1c 03b8 004c 11ff ff3d
+    0x00000c0: 1217 1100 2ab8 001d 2db0               
+  Stackmap Table:
+    append_frame(@39,Object[#33],Object[#68])
+    same_frame_extended(@173)
+    chop_frame(@200,1)
+
+	at simonAlgorithm.TestSimonAlgorithm.generateSequenceClassicTest(TestSimonAlgorithm.java:17)
+

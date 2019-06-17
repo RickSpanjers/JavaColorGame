@@ -1,0 +1,4 @@
+
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ë»¨Ÿùÿÿÿÿ8öÂš‚õ,
+•squid:S1319"wThe type of the "lastSequence" object should be an interface such as "List" rather than the implementation "ArrayList".(ú¢¦8öÂš‚õ,
+šsquid:S1319"wThe type of the "lastSequence" object should be an interface such as "List" rather than the implementation "ArrayList".(Çæ®Öûÿÿÿÿ8öÂš‚õ,

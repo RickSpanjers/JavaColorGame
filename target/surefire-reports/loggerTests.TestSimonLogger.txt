@@ -1,0 +1,88 @@
+-------------------------------------------------------------------------------
+Test set: loggerTests.TestSimonLogger
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in loggerTests.TestSimonLogger
+logExceptionDebugTest()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 72
+Exception Details:
+  Location:
+    logging/Logger.getInstance()Llogging/ILogger; @25: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033b 11ff ff3c 1212 1100 0cb8 0018 b200
+    0x0000010: 2811 000c 3b11 0000 3cc7 002f 1a11 000c
+    0x0000020: a000 161b 1100 00a0 000f 1212 1a1b 04b8
+    0x0000030: 002c 11ff ff3c 1212 1100 0db8 0018 bb00
+    0x0000040: 0259 b700 2db3 0028 1b9b 000f 1212 1a1b
+    0x0000050: 03b8 002c 11ff ff3c 1212 1100 0fb8 0018
+    0x0000060: b200 28b0                              
+  Stackmap Table:
+    same_frame_extended(@96)
+
+	at loggerTests.TestSimonLogger.<init>(TestSimonLogger.java:11)
+
+logExceptionFatalTest()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 72
+Exception Details:
+  Location:
+    logging/Logger.getInstance()Llogging/ILogger; @25: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033b 11ff ff3c 1212 1100 0cb8 0018 b200
+    0x0000010: 2811 000c 3b11 0000 3cc7 002f 1a11 000c
+    0x0000020: a000 161b 1100 00a0 000f 1212 1a1b 04b8
+    0x0000030: 002c 11ff ff3c 1212 1100 0db8 0018 bb00
+    0x0000040: 0259 b700 2db3 0028 1b9b 000f 1212 1a1b
+    0x0000050: 03b8 002c 11ff ff3c 1212 1100 0fb8 0018
+    0x0000060: b200 28b0                              
+  Stackmap Table:
+    same_frame_extended(@96)
+
+	at loggerTests.TestSimonLogger.<init>(TestSimonLogger.java:11)
+
+logExceptionErrorTest()  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 72
+Exception Details:
+  Location:
+    logging/Logger.getInstance()Llogging/ILogger; @25: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033b 11ff ff3c 1212 1100 0cb8 0018 b200
+    0x0000010: 2811 000c 3b11 0000 3cc7 002f 1a11 000c
+    0x0000020: a000 161b 1100 00a0 000f 1212 1a1b 04b8
+    0x0000030: 002c 11ff ff3c 1212 1100 0db8 0018 bb00
+    0x0000040: 0259 b700 2db3 0028 1b9b 000f 1212 1a1b
+    0x0000050: 03b8 002c 11ff ff3c 1212 1100 0fb8 0018
+    0x0000060: b200 28b0                              
+  Stackmap Table:
+    same_frame_extended(@96)
+
+	at loggerTests.TestSimonLogger.<init>(TestSimonLogger.java:11)
+
+logExceptionWarningTest()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 72
+Exception Details:
+  Location:
+    logging/Logger.getInstance()Llogging/ILogger; @25: ifnonnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 033b 11ff ff3c 1212 1100 0cb8 0018 b200
+    0x0000010: 2811 000c 3b11 0000 3cc7 002f 1a11 000c
+    0x0000020: a000 161b 1100 00a0 000f 1212 1a1b 04b8
+    0x0000030: 002c 11ff ff3c 1212 1100 0db8 0018 bb00
+    0x0000040: 0259 b700 2db3 0028 1b9b 000f 1212 1a1b
+    0x0000050: 03b8 002c 11ff ff3c 1212 1100 0fb8 0018
+    0x0000060: b200 28b0                              
+  Stackmap Table:
+    same_frame_extended(@96)
+
+	at loggerTests.TestSimonLogger.<init>(TestSimonLogger.java:11)
+

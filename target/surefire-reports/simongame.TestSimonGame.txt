@@ -1,0 +1,256 @@
+-------------------------------------------------------------------------------
+Test set: simongame.TestSimonGame
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 9, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE! - in simongame.TestSimonGame
+enterSequence()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+loginPlayerFalse()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+setGameDifficultyFalse()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+registerPlayerFalse()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+registerPlayer()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+setGameDifficulty()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+setGameVictor()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+loginPlayer()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+
+startNewGame()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Expecting a stackmap frame at branch target 88
+Exception Details:
+  Location:
+    simongame/SimonGameGUILogic.registerPlayer(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lsimongui/interfaces/ISimonRegisterGUI;)V @27: ifnull
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0x0000000: 0336 0511 ffff 3606 120f 1100 16b8 0015
+    0x0000010: 2b11 0016 3605 1100 0036 06c6 003d 120f
+    0x0000020: 1505 1506 04b8 002d 11ff ff36 062c 1100
+    0x0000030: 1636 0511 0001 3606 c600 2012 0f15 0515
+    0x0000040: 0604 b800 2d11 ffff 3606 2d11 0016 3605
+    0x0000050: 1100 0236 06c7 0049 1505 1100 16a0 001d
+    0x0000060: 1506 1100 02a0 0015 120f 1505 1506 04b8
+    0x0000070: 002d 11ff ff36 06a7 0017 1506 9b00 1212
+    0x0000080: 0f15 0515 0603 b800 2d11 ffff 3606 120f
+    0x0000090: 1100 17b8 0015 bb00 2f59 b700 30bf 1506
+    0x00000a0: 9b00 1212 0f15 0515 0603 b800 2d11 ffff
+    0x00000b0: 3606 120f 1100 19b8 0015 2ab4 001f 2b2c
+    0x00000c0: 2d19 04b6 0033 120f 1100 1bb8 0015 b1  
+  Stackmap Table:
+    same_frame_extended(@150)
+    same_frame(@186)
+
+	at simongame.TestSimonGame.<init>(TestSimonGame.java:15)
+

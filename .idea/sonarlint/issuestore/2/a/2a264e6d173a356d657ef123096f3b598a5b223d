@@ -1,0 +1,11 @@
+
+šsquid:S1319e"wThe type of the "lastSequence" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ÿı½şÿÿÿÿ8Õ½Äí÷,
+Vsquid:UselessImportCheck"+Remove this unused import 'logging.Logger'.(ä·¥š8Õ½Äí÷,
+œsquid:S1319q"yThe type of the "sequenceToSend" object should be an interface such as "List" rather than the implementation "ArrayList".(Ú‘£­ÿÿÿÿÿ8Õ½Äí÷,
+™squid:S1319‰"uThe type of the "highScores" object should be an interface such as "List" rather than the implementation "ArrayList".(¶ÌŸÿøÿÿÿÿ8Õ½Äí÷,
+•squid:S1319B"wThe type of the "otherPlayers" object should be an interface such as "List" rather than the implementation "ArrayList".(…ŞƒÛ8Õ½Äí÷,
+V
+squid:S106r"9Replace this use of System.out or System.err by a logger.(Îœò—8Õ½Äí÷,
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(ÚÂâ8Õ½Äí÷,
+Wsquid:UselessImportCheck",Remove this unused import 'logging.ILogger'.(µéÒ8Õ½Äí÷,

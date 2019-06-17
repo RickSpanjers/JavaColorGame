@@ -1,0 +1,103 @@
+-------------------------------------------------------------------------------
+Test set: integrationTests.TestClientMessagingIntegration
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.125 sec <<< FAILURE! - in integrationTests.TestClientMessagingIntegration
+RoundResultTest()  Time elapsed: 0.08 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    websockets/client/notify/NotifyGUI.notifySetOpponents(Ljava/util/ArrayList;)V @20: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'java/util/Iterator' (stack map, locals[2])
+  Current Frame:
+    bci: @20
+    flags: { }
+    locals: { 'websockets/client/notify/NotifyGUI', 'java/util/ArrayList', integer, integer, 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @20
+    flags: { }
+    locals: { 'websockets/client/notify/NotifyGUI', 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1217 1100 43b8 001d 2bb6
+    0x0000010: 0075 3a04 1904 b900 7b01 0011 0043 3d11
+    0x0000020: 0000 3e99 0041 1217 1c1d 04b8 007f 11ff
+    0x0000030: ff3e 1904 b900 8301 00c0 0085 3a05 1217
+    0x0000040: 1100 44b8 001d 2ab4 0030 1905 b600 8819
+    0x0000050: 05b6 008c b900 9103 0012 1711 0045 b800
+    0x0000060: 1da7 ffb3 1d9b 000f 1217 1c1d 03b8 007f
+    0x0000070: 11ff ff3e 1217 1100 46b8 001d b1       
+  Stackmap Table:
+    append_frame(@20,Object[#119])
+    chop_frame(@124,1)
+
+	at integrationTests.TestClientMessagingIntegration.RoundResultTest(TestClientMessagingIntegration.java:66)
+
+RegistrationResultTest()  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    websockets/client/notify/NotifyGUI.notifySetOpponents(Ljava/util/ArrayList;)V @20: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'java/util/Iterator' (stack map, locals[2])
+  Current Frame:
+    bci: @20
+    flags: { }
+    locals: { 'websockets/client/notify/NotifyGUI', 'java/util/ArrayList', integer, integer, 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @20
+    flags: { }
+    locals: { 'websockets/client/notify/NotifyGUI', 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1217 1100 43b8 001d 2bb6
+    0x0000010: 0075 3a04 1904 b900 7b01 0011 0043 3d11
+    0x0000020: 0000 3e99 0041 1217 1c1d 04b8 007f 11ff
+    0x0000030: ff3e 1904 b900 8301 00c0 0085 3a05 1217
+    0x0000040: 1100 44b8 001d 2ab4 0030 1905 b600 8819
+    0x0000050: 05b6 008c b900 9103 0012 1711 0045 b800
+    0x0000060: 1da7 ffb3 1d9b 000f 1217 1c1d 03b8 007f
+    0x0000070: 11ff ff3e 1217 1100 46b8 001d b1       
+  Stackmap Table:
+    append_frame(@20,Object[#119])
+    chop_frame(@124,1)
+
+	at integrationTests.TestClientMessagingIntegration.RegistrationResultTest(TestClientMessagingIntegration.java:31)
+
+LoginResultTest()  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    websockets/client/notify/NotifyGUI.notifySetOpponents(Ljava/util/ArrayList;)V @20: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'java/util/Iterator' (stack map, locals[2])
+  Current Frame:
+    bci: @20
+    flags: { }
+    locals: { 'websockets/client/notify/NotifyGUI', 'java/util/ArrayList', integer, integer, 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @20
+    flags: { }
+    locals: { 'websockets/client/notify/NotifyGUI', 'java/util/ArrayList', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1217 1100 43b8 001d 2bb6
+    0x0000010: 0075 3a04 1904 b900 7b01 0011 0043 3d11
+    0x0000020: 0000 3e99 0041 1217 1c1d 04b8 007f 11ff
+    0x0000030: ff3e 1904 b900 8301 00c0 0085 3a05 1217
+    0x0000040: 1100 44b8 001d 2ab4 0030 1905 b600 8819
+    0x0000050: 05b6 008c b900 9103 0012 1711 0045 b800
+    0x0000060: 1da7 ffb3 1d9b 000f 1217 1c1d 03b8 007f
+    0x0000070: 11ff ff3e 1217 1100 46b8 001d b1       
+  Stackmap Table:
+    append_frame(@20,Object[#119])
+    chop_frame(@124,1)
+
+	at integrationTests.TestClientMessagingIntegration.LoginResultTest(TestClientMessagingIntegration.java:47)
+

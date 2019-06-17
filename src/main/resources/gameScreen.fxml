@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="simongui.controller.GameGUIController">
+   <children>
+      <Rectangle fx:id="colorRed" arcHeight="5.0" arcWidth="5.0" fill="#8c1607" height="200.0" layoutX="28.0" layoutY="82.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+      <Rectangle fx:id="colorGreen" arcHeight="5.0" arcWidth="5.0" fill="#275603" height="200.0" layoutX="240.0" layoutY="82.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+      <Rectangle fx:id="colorBlue" arcHeight="5.0" arcWidth="5.0" fill="#081189" height="200.0" layoutX="28.0" layoutY="295.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+      <Rectangle fx:id="colorYellow" arcHeight="5.0" arcWidth="5.0" fill="#bf9d04" height="200.0" layoutX="240.0" layoutY="295.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+      <Label layoutX="28.0" layoutY="21.0" text="SIMON GAME">
+         <font>
+            <Font name="Britannic Bold" size="45.0" />
+         </font>
+      </Label>
+      <Rectangle fx:id="rectangle_gameinfo" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="419.0" layoutX="457.0" layoutY="79.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.5" width="218.0" />
+      <Label layoutX="466.0" layoutY="141.0" text="Difficulty">
+         <font>
+            <Font name="Britannic Bold" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="607.0" layoutY="141.0" text="Turn">
+         <font>
+            <Font name="Britannic Bold" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="468.0" layoutY="168.0" prefHeight="13.0" prefWidth="140.0" style="border-bottom: black;" text="Players">
+         <font>
+            <Font name="Britannic Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelLoggedInAs" layoutX="517.0" layoutY="115.0" text="Not Logged In">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="466.0" layoutY="117.0" text="Player">
+         <font>
+            <Font name="Britannic Bold" size="13.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelDifficultyValue" layoutX="527.0" layoutY="139.0" text="1">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="labelTurnValue" layoutX="641.0" layoutY="139.0" text="0">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="468.0" layoutY="194.0" text="Player 01">
+         <font>
+            <Font name="Britannic Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="txtPlayer2lbl" layoutX="468.0" layoutY="217.0" text="Player 02">
+         <font>
+            <Font name="Britannic Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="txtPlayer3lbl" layoutX="468.0" layoutY="240.0" text="Player 03">
+         <font>
+            <Font name="Britannic Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="txtPlayer4lbl" layoutX="468.0" layoutY="262.0" text="Player 04">
+         <font>
+            <Font name="Britannic Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="txtPlayer1Value" layoutX="529.0" layoutY="193.0" text="You">
+         <font>
+            <Font name="System Italic" size="10.0" />
+         </font></Label>
+      <Label fx:id="txtPlayer2Value" layoutX="527.0" layoutY="216.0" text="None">
+         <font>
+            <Font name="System Italic" size="10.0" />
+         </font></Label>
+      <Label fx:id="txtPlayer3Value" layoutX="527.0" layoutY="239.0" text="None">
+         <font>
+            <Font name="System Italic" size="10.0" />
+         </font></Label>
+      <Label fx:id="txtPlayer4Value" layoutX="527.0" layoutY="261.0" text="None">
+         <font>
+            <Font name="System Italic" size="10.0" />
+         </font></Label>
+      <Button fx:id="btnNotifyReady" layoutX="470.0" layoutY="320.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="189.0" text="Ready To Play">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnNewGame" layoutX="470.0" layoutY="426.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="189.0" text="New Game">
+         <font>
+            <Font size="11.0" />
+         </font></Button>
+      <Button fx:id="btnToStart" layoutX="470.0" layoutY="460.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="189.0" text="Quit Game">
+         <font>
+            <Font size="11.0" />
+         </font></Button>
+      <Button fx:id="btnRepeatLast" layoutX="470.0" layoutY="391.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="189.0" text="Repeat Last">
+         <font>
+            <Font size="11.0" />
+         </font></Button>
+      <Label layoutX="467.0" layoutY="91.0" prefHeight="13.0" prefWidth="140.0" style="border-bottom: black;" text="Game information">
+         <font>
+            <Font name="Britannic Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="467.0" layoutY="292.0" prefHeight="13.0" prefWidth="140.0" style="border-bottom: black;" text="Player options">
+         <font>
+            <Font name="Britannic Bold" size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnShowSequence" layoutX="470.0" layoutY="356.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="189.0" text="Start Showing Sequences">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Label fx:id="txtRoundIncrease" layoutX="454.0" layoutY="38.0" text="NEXT ROUND!">
+         <font>
+            <Font name="Britannic Bold" size="28.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

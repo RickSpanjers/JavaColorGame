@@ -1,0 +1,8 @@
+
+zsquid:S00116%"[Rename this field "btn_recordholder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¯‚¨8âØµ‚õ,
+ysquid:S00116#"ZRename this field "btn_backtostart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öğ‚8âØµ‚õ,
+Rsquid:S16113"/Remove the parentheses around the "e" parameter(Ùİ¦øÿÿÿÿ8âØµ‚õ,
+wsquid:S00116'"YRename this field "tbl_highscores" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎùÇ8âØµ‚õ,
+Msquid:S1611A"/Remove the parentheses around the "e" parameter(Ñ¯¨„8âØµ‚õ,
+Jsquid:S1602A",Remove useless curly braces around statement(Ñ¯¨„8âØµ‚õ,
+›squid:S1319X"}The type of the "highscoreArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¤„ï¨8âØµ‚õ,

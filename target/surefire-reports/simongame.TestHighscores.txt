@@ -1,0 +1,244 @@
+-------------------------------------------------------------------------------
+Test set: simongame.TestHighscores
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in simongame.TestHighscores
+getHighestScore()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    context/HighscoreTestContext.getHighestScore(Ldomain/GameMode;)Ldomain/Player; @42: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'domain/Player' (stack map, locals[2])
+  Current Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', integer, integer, 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1212 1100 51b8 0018 bb00
+    0x0000010: 2559 0301 b700 963a 0412 1211 0052 b800
+    0x0000020: 182a b400 1fb6 005a 3a05 1905 b900 6001
+    0x0000030: 0011 0052 3d11 0000 3e99 007f 1212 1c1d
+    0x0000040: 04b8 0064 11ff ff3e 1905 b900 6801 00c0
+    0x0000050: 0025 3a06 1212 1100 53b8 0018 1906 b600
+    0x0000060: 70b6 0076 1904 b600 70b6 0076 1100 533d
+    0x0000070: 1100 003e a400 291c 1100 53a0 0016 1d11
+    0x0000080: 0000 a000 0f12 121c 1d04 b800 6411 ffff
+    0x0000090: 3e12 1211 0054 b800 1819 063a 041d 9b00
+    0x00000a0: 0f12 121c 1d03 b800 6411 ffff 3e12 1211
+    0x00000b0: 0056 b800 18a7 ff75 1d9b 000f 1212 1c1d
+    0x00000c0: 03b8 0064 11ff ff3e 1212 1100 57b8 0018
+    0x00000d0: 1904 b0                                
+  Stackmap Table:
+    append_frame(@42,Object[#37],Object[#92])
+    same_frame_extended(@181)
+    chop_frame(@208,1)
+
+	at simongame.TestHighscores.<init>(TestHighscores.java:15)
+
+updateHighscoreByUserId()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    context/HighscoreTestContext.getHighestScore(Ldomain/GameMode;)Ldomain/Player; @42: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'domain/Player' (stack map, locals[2])
+  Current Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', integer, integer, 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1212 1100 51b8 0018 bb00
+    0x0000010: 2559 0301 b700 963a 0412 1211 0052 b800
+    0x0000020: 182a b400 1fb6 005a 3a05 1905 b900 6001
+    0x0000030: 0011 0052 3d11 0000 3e99 007f 1212 1c1d
+    0x0000040: 04b8 0064 11ff ff3e 1905 b900 6801 00c0
+    0x0000050: 0025 3a06 1212 1100 53b8 0018 1906 b600
+    0x0000060: 70b6 0076 1904 b600 70b6 0076 1100 533d
+    0x0000070: 1100 003e a400 291c 1100 53a0 0016 1d11
+    0x0000080: 0000 a000 0f12 121c 1d04 b800 6411 ffff
+    0x0000090: 3e12 1211 0054 b800 1819 063a 041d 9b00
+    0x00000a0: 0f12 121c 1d03 b800 6411 ffff 3e12 1211
+    0x00000b0: 0056 b800 18a7 ff75 1d9b 000f 1212 1c1d
+    0x00000c0: 03b8 0064 11ff ff3e 1212 1100 57b8 0018
+    0x00000d0: 1904 b0                                
+  Stackmap Table:
+    append_frame(@42,Object[#37],Object[#92])
+    same_frame_extended(@181)
+    chop_frame(@208,1)
+
+	at simongame.TestHighscores.<init>(TestHighscores.java:15)
+
+getAllHighscores()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    context/HighscoreTestContext.getHighestScore(Ldomain/GameMode;)Ldomain/Player; @42: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'domain/Player' (stack map, locals[2])
+  Current Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', integer, integer, 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1212 1100 51b8 0018 bb00
+    0x0000010: 2559 0301 b700 963a 0412 1211 0052 b800
+    0x0000020: 182a b400 1fb6 005a 3a05 1905 b900 6001
+    0x0000030: 0011 0052 3d11 0000 3e99 007f 1212 1c1d
+    0x0000040: 04b8 0064 11ff ff3e 1905 b900 6801 00c0
+    0x0000050: 0025 3a06 1212 1100 53b8 0018 1906 b600
+    0x0000060: 70b6 0076 1904 b600 70b6 0076 1100 533d
+    0x0000070: 1100 003e a400 291c 1100 53a0 0016 1d11
+    0x0000080: 0000 a000 0f12 121c 1d04 b800 6411 ffff
+    0x0000090: 3e12 1211 0054 b800 1819 063a 041d 9b00
+    0x00000a0: 0f12 121c 1d03 b800 6411 ffff 3e12 1211
+    0x00000b0: 0056 b800 18a7 ff75 1d9b 000f 1212 1c1d
+    0x00000c0: 03b8 0064 11ff ff3e 1212 1100 57b8 0018
+    0x00000d0: 1904 b0                                
+  Stackmap Table:
+    append_frame(@42,Object[#37],Object[#92])
+    same_frame_extended(@181)
+    chop_frame(@208,1)
+
+	at simongame.TestHighscores.<init>(TestHighscores.java:15)
+
+getHighscoreByUserId()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    context/HighscoreTestContext.getHighestScore(Ldomain/GameMode;)Ldomain/Player; @42: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'domain/Player' (stack map, locals[2])
+  Current Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', integer, integer, 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1212 1100 51b8 0018 bb00
+    0x0000010: 2559 0301 b700 963a 0412 1211 0052 b800
+    0x0000020: 182a b400 1fb6 005a 3a05 1905 b900 6001
+    0x0000030: 0011 0052 3d11 0000 3e99 007f 1212 1c1d
+    0x0000040: 04b8 0064 11ff ff3e 1905 b900 6801 00c0
+    0x0000050: 0025 3a06 1212 1100 53b8 0018 1906 b600
+    0x0000060: 70b6 0076 1904 b600 70b6 0076 1100 533d
+    0x0000070: 1100 003e a400 291c 1100 53a0 0016 1d11
+    0x0000080: 0000 a000 0f12 121c 1d04 b800 6411 ffff
+    0x0000090: 3e12 1211 0054 b800 1819 063a 041d 9b00
+    0x00000a0: 0f12 121c 1d03 b800 6411 ffff 3e12 1211
+    0x00000b0: 0056 b800 18a7 ff75 1d9b 000f 1212 1c1d
+    0x00000c0: 03b8 0064 11ff ff3e 1212 1100 57b8 0018
+    0x00000d0: 1904 b0                                
+  Stackmap Table:
+    append_frame(@42,Object[#37],Object[#92])
+    same_frame_extended(@181)
+    chop_frame(@208,1)
+
+	at simongame.TestHighscores.<init>(TestHighscores.java:15)
+
+updateHighscoreByNonExistingId()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    context/HighscoreTestContext.getHighestScore(Ldomain/GameMode;)Ldomain/Player; @42: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'domain/Player' (stack map, locals[2])
+  Current Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', integer, integer, 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1212 1100 51b8 0018 bb00
+    0x0000010: 2559 0301 b700 963a 0412 1211 0052 b800
+    0x0000020: 182a b400 1fb6 005a 3a05 1905 b900 6001
+    0x0000030: 0011 0052 3d11 0000 3e99 007f 1212 1c1d
+    0x0000040: 04b8 0064 11ff ff3e 1905 b900 6801 00c0
+    0x0000050: 0025 3a06 1212 1100 53b8 0018 1906 b600
+    0x0000060: 70b6 0076 1904 b600 70b6 0076 1100 533d
+    0x0000070: 1100 003e a400 291c 1100 53a0 0016 1d11
+    0x0000080: 0000 a000 0f12 121c 1d04 b800 6411 ffff
+    0x0000090: 3e12 1211 0054 b800 1819 063a 041d 9b00
+    0x00000a0: 0f12 121c 1d03 b800 6411 ffff 3e12 1211
+    0x00000b0: 0056 b800 18a7 ff75 1d9b 000f 1212 1c1d
+    0x00000c0: 03b8 0064 11ff ff3e 1212 1100 57b8 0018
+    0x00000d0: 1904 b0                                
+  Stackmap Table:
+    append_frame(@42,Object[#37],Object[#92])
+    same_frame_extended(@181)
+    chop_frame(@208,1)
+
+	at simongame.TestHighscores.<init>(TestHighscores.java:15)
+
+getHighscoreByNonExistingUserId()  Time elapsed: 0 sec  <<< ERROR!
+java.lang.VerifyError: 
+Instruction type does not match stack map
+Exception Details:
+  Location:
+    context/HighscoreTestContext.getHighestScore(Ldomain/GameMode;)Ldomain/Player; @42: aload
+  Reason:
+    Type integer (current frame, locals[2]) is not assignable to 'domain/Player' (stack map, locals[2])
+  Current Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', integer, integer, 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Stackmap Frame:
+    bci: @42
+    flags: { }
+    locals: { 'context/HighscoreTestContext', 'domain/GameMode', 'domain/Player', 'java/util/Iterator' }
+    stack: { }
+  Bytecode:
+    0x0000000: 033d 11ff ff3e 1212 1100 51b8 0018 bb00
+    0x0000010: 2559 0301 b700 963a 0412 1211 0052 b800
+    0x0000020: 182a b400 1fb6 005a 3a05 1905 b900 6001
+    0x0000030: 0011 0052 3d11 0000 3e99 007f 1212 1c1d
+    0x0000040: 04b8 0064 11ff ff3e 1905 b900 6801 00c0
+    0x0000050: 0025 3a06 1212 1100 53b8 0018 1906 b600
+    0x0000060: 70b6 0076 1904 b600 70b6 0076 1100 533d
+    0x0000070: 1100 003e a400 291c 1100 53a0 0016 1d11
+    0x0000080: 0000 a000 0f12 121c 1d04 b800 6411 ffff
+    0x0000090: 3e12 1211 0054 b800 1819 063a 041d 9b00
+    0x00000a0: 0f12 121c 1d03 b800 6411 ffff 3e12 1211
+    0x00000b0: 0056 b800 18a7 ff75 1d9b 000f 1212 1c1d
+    0x00000c0: 03b8 0064 11ff ff3e 1212 1100 57b8 0018
+    0x00000d0: 1904 b0                                
+  Stackmap Table:
+    append_frame(@42,Object[#37],Object[#92])
+    same_frame_extended(@181)
+    chop_frame(@208,1)
+
+	at simongame.TestHighscores.<init>(TestHighscores.java:15)
+

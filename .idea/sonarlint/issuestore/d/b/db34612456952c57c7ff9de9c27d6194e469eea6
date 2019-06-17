@@ -1,0 +1,5 @@
+
+Ssquid:UselessImportCheck"(Remove this unused import 'domain.Game'.(¶ÄŠ¿8×¿£›÷,
+“squid:S1319<"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆÇ¯Åýÿÿÿÿ8òŽ“‚õ,
+Msquid:S1066!"/Merge this if statement with the enclosing one.(ÁŒûñ8òŽ“‚õ,
+“squid:S1319E"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(öäò©ÿÿÿÿÿ8ŽÚ¦›÷,
